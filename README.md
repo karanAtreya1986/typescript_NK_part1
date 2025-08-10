@@ -1,0 +1,1 @@
+# typescript_NK_part1
